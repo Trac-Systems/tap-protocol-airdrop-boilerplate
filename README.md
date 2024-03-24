@@ -16,6 +16,10 @@ What it does:
 
 Check the "drop.csv" that ships with this boilerplate as sample and use exactly the same format.
 
+## Requirements
+
+NodeJS 20+
+
 ## Installation & Execution
 
 Clone this repository in order to run:
