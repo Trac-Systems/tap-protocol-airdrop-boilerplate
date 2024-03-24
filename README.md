@@ -1,1 +1,1 @@
-# tap-protocol-airdrop-boilerplate
+# Airdrop Boilerplate
