@@ -6,9 +6,11 @@ Projects may find this boilerplate useful to create airdropping tools or perform
 
 It expects a CSV called "drop.csv" in its root folder that includes the token tickers, receiver addresses and amounts per token to be dropped.
 
+Once generated, simply use an inscriber of your choice to perform the airdrop.
+
 What it does:
 
-- Validates all address and skips invalid ones
+- Validates all addresses and skips invalid ones
 - Generates inscription text
 - Chunks the results as text files into "drop" folder
 
