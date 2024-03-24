@@ -27,5 +27,6 @@ Clone this repository in order to run:
 ```
 git clone https://github.com/Trac-Systems/tap-protocol-airdrop-boilerplate.git
 cd tap-protocol-airdrop-boilerplate
+npm i
 node tap-drop.mjs
 ```
