@@ -1,6 +1,6 @@
 # Airdrop Boilerplate for TAP Protocol
 
-This boilerplate generates token-send inscription text for the TAP Protocol to perform airdrops.
+This boilerplate generates token-send (see https://github.com/BennyTheDev/tap-protocol-specs) inscription text for the TAP Protocol to perform airdrops.
 
 Projects may find this boilerplate useful to create airdropping tools or perform actual airdrops.
 
