@@ -1,1 +1,1 @@
-# Airdrop Boilerplate
+# Airdrop Boilerplate for TAP Protocol
