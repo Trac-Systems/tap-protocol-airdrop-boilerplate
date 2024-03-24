@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@cmdcode/tapscript": "^1.4.0",
+    "axios": "^1.6.7",
+    "cli-progress": "^3.12.0",
+    "fs": "^0.0.1-security",
+    "graceful-fs": "^4.2.11",
+    "util": "^0.12.5"
+  }
+}
