@@ -1,1 +1,25 @@
 # Airdrop Boilerplate for TAP Protocol
+
+This boilerplate generates token-send inscription text for the TAP Protocol to perform airdrops.
+
+Projects may find this boilerplate useful to create airdropping tools or perform actual airdrops.
+
+It expects a CSV called "drop.csv" in its root folder that includes the token tickers, receiver addresses and amounts per token to be dropped.
+
+What it does:
+
+- Validates all address and skips invalid ones
+- Generates inscription text
+- Chunks the results as text files into "drop" folder
+
+Check the "drop.csv" that ships with this boilerplate as sample and use exactly the same format.
+
+## Installation & Execution
+
+Clone this repository in order to run:
+
+```
+git clone https://github.com/Trac-Systems/tap-protocol-airdrop-boilerplate.git
+cd tap-protocol-airdrop-boilerplate
+node tap-drop.mjs
+```
