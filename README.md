@@ -12,7 +12,7 @@ What it does:
 
 - Validates all addresses and skips invalid ones
 - Generates inscription text
-- Chunks the results as text files into "drop" folder
+- Chunks the results as text files into the "drop" folder
 
 Check the "drop.csv" that ships with this boilerplate as sample and use exactly the same format.
 
